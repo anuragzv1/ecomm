@@ -16,7 +16,7 @@
 4) Sort the products
 
 ## Screenshots
-![Screenshot of Tooltip](Screenshot 2020-08-25 at 12.44.08 AM.png)
+![Screenshot of Tooltip](logo.png)
 
 
 ## THANKYOU <3
