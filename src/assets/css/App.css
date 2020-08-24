@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.sort-unsort{
+    margin-top:4px;
+    position: relative;
+    left:400px;
+    background-color:orange;
+    padding:10px;
+    border-radius:9px;
+    cursor: pointer;
+}

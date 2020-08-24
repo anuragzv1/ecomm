@@ -1,0 +1,38 @@
+.prod-desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.cart-item{
+    background-color: white;
+    width:900px;
+    display:flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    margin:10px;
+    box-sizing: border-box;
+}
+
+.cart-item:hover{
+    border-bottom:2px solid crimson;
+}
+
+.prod-text{
+    color: crimson;
+    margin-left: 5px;
+    text-align: justify;
+    width: 600px;
+}
+
+.prod-action{
+    display: flex;
+    justify-content: flex-end;
+}
+.pricename{
+    margin-top: -15px;
+    margin-right: 10px;
+    width: 90px;
+}
