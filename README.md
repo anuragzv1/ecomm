@@ -1,6 +1,7 @@
 ## Basic ecom flow made solely using react
 ### App contains basic functionalities like Adding a new product, editing the description on the product , Sorting the products according to price etc
 
+## hosted url :https://anuragzv1.github.io/ecomm
 ## How to run this app on local system?
 1) Clone the master-branch of this Git repo.  
 2) Navigate to the folder and open terminal in it.  
@@ -19,4 +20,4 @@
 ![Screenshot of Tooltip](logo.png)
 
 
-## THANKYOU <3
+## Sorry for the messed up project, did this in 3 hours :/
